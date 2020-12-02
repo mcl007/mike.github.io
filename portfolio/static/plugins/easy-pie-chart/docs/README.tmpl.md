@@ -31,4 +31,4 @@
 ## Copyright
 {%= copyright %} {%= license %}
 
-# {% name %}
+# {% endname %}
