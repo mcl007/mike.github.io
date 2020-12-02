@@ -1,4 +1,4 @@
-# name 
+{%= name %} 
 
 {%= _.doc('bagdes.md') %}
 
