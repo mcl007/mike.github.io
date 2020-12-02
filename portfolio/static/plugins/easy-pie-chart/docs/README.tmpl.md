@@ -1,5 +1,5 @@
 # {%= name %}
-
+# {% endname %}
 > {%= description %}
 
 {%= _.doc('bagdes.md') %}
@@ -31,4 +31,4 @@
 ## Copyright
 {%= copyright %} {%= license %}
 
-# {% endname %}
+
